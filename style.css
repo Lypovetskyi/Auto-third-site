@@ -857,10 +857,7 @@ display: flex;
     color: #FFFFFF;
     text-decoration: none;
 }
-.link-button-footer-down:hover {
-    box-shadow: 25px 60px 30px rgb(255, 0, 0);
-    transition: box-shadow 0.2s ease-in, background-color 0.2s ease-in; 
-}
+
 
 .contact-adress-footer-container {
     width: 297px;
@@ -960,3 +957,6 @@ display: flex;
     color: #FFFFFF;
 }
 
+.link-footer-down-nav:hover {
+    color: red;
+}
