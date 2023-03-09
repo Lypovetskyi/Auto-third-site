@@ -552,6 +552,10 @@ body {
     border-radius: 10px
 }
 
+.black-button:hover {
+    box-shadow: 0px 5px 25px rgb(168, 5, 5);
+    transition: box-shadow 0.2s ease-in, background-color 0.2s ease-in;
+}
 .container-list-works {
     display: flex;
     justify-content: space-between;
